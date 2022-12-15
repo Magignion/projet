@@ -1,0 +1,18 @@
+Cahier des charges :
+  Objectif du projet : 
+   reconnaitre un frelon et bruler ses ailes a l'aide d'un laser. 
+  
+  Environnement : 
+   Positioné sur une ruche, 
+   donc le projet doit être résistant aux conditions climatiques(vent, pluie). 
+   De plus il doit être assez silencieux et peu encombrant pour ne pas déranger le bon fonctionnenment de la ruche. 
+  
+  Aspect technique : 
+   Fonctionne sur batterie, 
+   différencie un frelon d'une abeille,
+   déplacement rapide du laseer vers le frelon,
+   utilisation de deux servomoteurs pour la viser du laser. 
+  
+  Code : 
+   code arduino pour l'IA.
+   code pour les servomoteurs. 
